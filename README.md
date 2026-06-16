@@ -38,7 +38,7 @@ This project demonstrates the practical application of date arithmetic, conditio
 
 **Compile:**
 ```bash
-gcc Project1_MoinuddinTashrif.c -o date_calculator
+gcc date_calculator.c -o date_calculator
 ```
 
 **Run:**
